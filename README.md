@@ -6,4 +6,4 @@
 
 - Saída do código:
 
-![saída_ex2](https://user-images.githubusercontent.com/88458605/128265145-aec2d64c-a47f-462e-95bc-cad7285e7c5d.png)
+![saída_ex1](https://user-images.githubusercontent.com/88458605/128265169-0801249e-16dc-4005-a5f5-5bd27f953a02.png)
